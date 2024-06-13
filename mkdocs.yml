@@ -4,3 +4,7 @@ theme:
   palette:
     primary: green
     accent: "light green"
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
